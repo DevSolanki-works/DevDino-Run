@@ -19,7 +19,7 @@ A fast-paced, "cute" endless runner built entirely in **Python** using the **Pyg
 - **Logic:** Asyncio for web-compatibility
 
 ## 📸 Screenshots
-![Game Preview](Screenshot 2026-03-20 011208.png)
+![Game Preview](preview.png)
 
 
 ## 🏃 How to Run
