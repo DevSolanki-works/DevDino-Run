@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+build/
+web-cache/
+.DS_Store
+highscore.txt
